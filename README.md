@@ -6,7 +6,9 @@ mybinder 754 gb ram 72 core cpu
 
 
 
-usage
+usage :-
+
+
 chmod a+x Go.sh
 
 
